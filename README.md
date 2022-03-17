@@ -1,4 +1,4 @@
-<h1>Hey, i'm Victor Calidor :D<img src="https://media.giphy.com/media/3o6gE51uXycrKW6D84/giphy.gif" width="50"></h1>
+<h1>Hey, i'm Victor Calidor :D<img src="https://giphy.com/stickers/universalmusicbrasil-leo-santana-gg-levada-do-QaZ6YLl9igeKSTNmAI" width="50"></h1>
 
 
 <h2>Starting my developer career!!!</h2> 
